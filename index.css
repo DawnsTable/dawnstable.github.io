@@ -1,0 +1,9 @@
+/* Background Image, Text Alignment, & Border */
+body {
+	background-image: url('https://dawnstable.github.io/bg_0a.png');
+	background-size: cover;
+	text-align: center;
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
